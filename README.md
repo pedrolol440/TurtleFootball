@@ -3,7 +3,9 @@ Este repositorio contiene la práctica 3 de la asignatura Robots Móviles y el t
 
 Esta práctica nace durante el principio del mundial de Qatar 2022 en la que se propuso que mediante la cámara Astra de la que dispone el TurtleBot se oriente hacía una persona o "jugador" con una camiseta roja y, al orientarse moverse para tratar de hacerle un "pase" a ese jugador.
 
-Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que 
+Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que se prentendía visualizar la cámara:
+
+https://github.com/pedrolol440/TurtleFootball/blob/b50c8a7bad8b1708edf03c10674e78a9d1c5f705/Scripts/verCamara.py
 
 En las primeras versiones del código se trato de realizar la detección del color rojo, de la camiseta y el color amarillo, del balón y se moviera hacia el balón al detectar el color amarillo. Aquí se pueden ver algunas de las pruebas que hicimos.
 
