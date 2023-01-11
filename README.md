@@ -14,3 +14,7 @@ https://user-images.githubusercontent.com/83214961/211801349-519da70b-6e92-46e8-
 https://user-images.githubusercontent.com/83214961/211801359-27cb18e8-4588-49d0-922f-7670e15ad943.mp4
 
 Aquí se puede ver el script usado: 
+
+[redTracking.py](https://github.com/pedrolol440/TurtleFootball/blob/8d85a298ce28f669f9b3d25606ab63ee212cacbe/Scripts/redTracking.py)
+
+
