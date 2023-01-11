@@ -5,7 +5,7 @@ Esta práctica nace durante el principio del mundial de Qatar 2022 en la que se 
 
 Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que se prentendía visualizar la cámara:
 
-[a link](https://github.com/pedrolol440/TurtleFootball/blob/b2d81bce231dedcae2abcad0811543c91382c81d/Scripts/verCamara.py)
+[VerCamara.py code](https://github.com/pedrolol440/TurtleFootball/blob/b2d81bce231dedcae2abcad0811543c91382c81d/Scripts/verCamara.py)
 
 En las primeras versiones del código se trato de realizar la detección del color rojo, de la camiseta y el color amarillo, del balón y se moviera hacia el balón al detectar el color amarillo. Aquí se pueden ver algunas de las pruebas que hicimos.
 
