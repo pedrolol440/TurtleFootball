@@ -23,7 +23,7 @@ A partir de este momento se necesitaba que el robot se posicionara de una manera
 
 (Falta un vídeo aquí)
 
-Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código.
+Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código. Sin embargo la orientación no llegaba a funcionar bien del todo con lo que se probaron diferentes soluciones.
 
 En un primer momento se realizó la siguiente implementación: 
 
@@ -168,4 +168,9 @@ if __name__ == '__main__':
 
 Este código a primera instancia tenía un problema importante del cual se tardo un poco descubrir la solución aunque era algo sencilla esta, puesto que no se reiniciaba la odometría y al ejecutar el código varias veces perdía la orientación. Esto era porque no se reiniciaba la odometría como se puede ver en el script. 
 
-Una vez detectado ese problema se desarrollo otro script pero añadiendo el reinicio de la odometría
+Una vez detectado ese problema se desarrollo otro script pero añadiendo el reinicio de la odometría. Además se añadió una máquina de estados a la programación para tratar de mejorar la ejecución de la orientación, consiguiendo mejorar bastante el funcionamiento.
+
+```python
+
+
+```
