@@ -1,5 +1,5 @@
 # TurtleFootball
-Este repositorio contiene la práctica 3 de la asignatura Robots Móviles y el trabajo realizado durante esta por Pedro Baeza, Carlos Ramos y Leopoldo Cadavid. 
+## Este repositorio contiene la práctica 3 de la asignatura Robots Móviles y el trabajo realizado durante esta por Pedro Baeza, Carlos Ramos y Leopoldo Cadavid. 
 
 Esta práctica nace durante el principio del mundial de Qatar 2022 en la que se propuso que mediante la cámara Astra de la que dispone el TurtleBot se oriente hacía una persona o "jugador" con una camiseta roja y, al orientarse moverse para tratar de hacerle un "pase" a ese jugador.
 
@@ -25,4 +25,10 @@ A partir de este momento se necesitaba que el robot se posicionara de una manera
 
 Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código.
 
-En un primer momento se realizó la siguiente implementación
+En un primer momento se realizó la siguiente implementación: 
+
+```python
+
+
+
+```
