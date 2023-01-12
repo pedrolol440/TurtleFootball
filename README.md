@@ -17,4 +17,6 @@ Aquí se puede ver el script usado:
 
 [redTracking.py](https://github.com/pedrolol440/TurtleFootball/blob/8d85a298ce28f669f9b3d25606ab63ee212cacbe/Scripts/redTracking.py)
 
+A partir de este momento se necesitaba que el robot se posicionara de una manera en la que al empujar el balón le llegará al jugador que lleve una camiseta roja, para ello se comenzaron a probar varias ideas para la orientación del TurtleBot. De muchas ideas se empezó a trabajar a partir de esta: 
 
+[giro_prueba_odom.py]()
