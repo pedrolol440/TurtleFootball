@@ -338,3 +338,13 @@ if __name__ == '__main__':
 
 ```
 [segundo_intento.py](https://github.com/pedrolol440/TurtleFootball/blob/1af65b98a6edebb334655fde90bfedfc589b44f4/Scripts/segundo_intento.py)
+
+En los siguientes vídeos se puede comprobar el resultado del anterior script en simulación con el TurtleBot:
+
+https://user-images.githubusercontent.com/83214961/212041573-db5850ea-31a2-47f2-936c-8c6c03308dd4.mp4
+
+
+https://user-images.githubusercontent.com/83214961/212041628-63a976de-0747-4631-9710-a8bfe6b114d0.mp4
+
+
+
