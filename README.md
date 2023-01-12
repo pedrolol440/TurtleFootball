@@ -164,3 +164,4 @@ if __name__ == '__main__':
     my_node.start()
 
 ```
+[primer_intento](https://github.com/pedrolol440/TurtleFootball/blob/0fa91be15e17fb5d22c391ae04916d51b503f321/Scripts/leo_code.py)
