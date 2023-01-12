@@ -123,7 +123,7 @@ class Nodo(object):
             if self.first_odom_check:    
                 self.do_rotation()
             
-        print("BLUCLE TERMINADO")        
+        print("BUCLE TERMINADO")        
 
 if __name__ == '__main__':
 
