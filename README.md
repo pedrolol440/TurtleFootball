@@ -20,3 +20,9 @@ Aquí se puede ver el script usado:
 A partir de este momento se necesitaba que el robot se posicionara de una manera en la que al empujar el balón le llegará al jugador que lleve una camiseta roja, para ello se comenzaron a probar varias ideas para la orientación del TurtleBot. De muchas ideas se empezó a trabajar a partir de esta: 
 
 [giro_prueba_odom.py](https://github.com/pedrolol440/TurtleFootball/blob/a90a78e25fbfcaf5cb84aaa6f085ff1dbef41576/Scripts/prueba_giro_odom.py)
+
+(Falta un vídeo aquí)
+
+Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código.
+
+En un primer momento se realizó la siguiente implementación
