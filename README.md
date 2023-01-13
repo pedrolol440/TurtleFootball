@@ -379,3 +379,6 @@ En este último código se combina la detección de los centroides, la alineaci�
 Después de todo el desarrollo y todos los programas de prueba y experimentación que se pueden ver en la única carpeta de este respositorio se obtuvo el script [TurtleFootball.py](https://github.com/pedrolol440/TurtleFootball/blob/66ec66bea21050b048af8e226a96e12d5dbb95d6/TurtleFootball.py) que es el resultado final de esta práctica y que a continuación mostraremos los diferentes vídeos grabados para mostrar su correcto funcionamiento.
 
 
+Aquí tenemos una orientación hacía el lado derecho en el que tenemos la visión de la cámara Astra en una esquina para saber que estamos mirando en cada momento
+
+https://drive.google.com/file/d/1ItMY8-6RdlgOqdTcuM5ZBZwCxxFOoeBR/view?usp=sharing
