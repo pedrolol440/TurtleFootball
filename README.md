@@ -3,6 +3,25 @@
 
 Esta práctica nace durante el principio del mundial de Qatar 2022 en la que se propuso que mediante la cámara Astra de la que dispone el TurtleBot se oriente hacía una persona o "jugador" con una camiseta roja y, al orientarse moverse para tratar de hacerle un "pase" a ese jugador.
 
+Para el uso del script primero tendremos que conectarnos a nuestro TurtleBot, en este caso se realiza de la siguiente manera: 
+
+```
+ssh <nombre_robot>@<Ip del robot>
+```
+
+Introducimos la contraseña para acceder y ya podemos lanzar el comando para activar el TurtleBot
+
+```
+roslaunch turtlebot_bringup minimal.launch
+```
+
+Realizado este roslaunch podemos usar las funcionalidades básicas del robot, sin embargo para este proyecto también es necesaria la cámara Astra que esta incluida, con lo que en otro terminal, nos conectamos al robot mediante ssh como ya se ha indicado anteriormente y una vez hemos accedido lanzamos el siguiente comando:
+
+```
+roslaunch astra_launch astra.launch
+```
+
+Una vez lanzados estos comandos ya tenemos todo listo para lanzar la práctica. Para ello con el script
 Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que se prentendía visualizar la cámara:
 
 [VerCamara.py code](https://github.com/pedrolol440/TurtleFootball/blob/b2d81bce231dedcae2abcad0811543c91382c81d/Scripts/verCamara.py)
@@ -21,7 +40,6 @@ A partir de este momento se necesitaba que el robot se posicionara de una manera
 
 [giro_prueba_odom.py](https://github.com/pedrolol440/TurtleFootball/blob/a90a78e25fbfcaf5cb84aaa6f085ff1dbef41576/Scripts/prueba_giro_odom.py)
 
-(Falta un vídeo aquí)
 
 Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código. Sin embargo la orientación no llegaba a funcionar bien del todo con lo que se probaron diferentes soluciones.
 
