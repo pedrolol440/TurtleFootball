@@ -382,3 +382,7 @@ Después de todo el desarrollo y todos los programas de prueba y experimentació
 Aquí tenemos una orientación hacía el lado derecho en el que tenemos la visión de la cámara Astra en una esquina para saber que estamos mirando en cada momento
 
 https://drive.google.com/file/d/1ItMY8-6RdlgOqdTcuM5ZBZwCxxFOoeBR/view?usp=sharing
+
+Y en este otro una orientación hacía la izquierda: 
+
+https://drive.google.com/file/d/1yXsJUpIn8dD_mAKmPbsS9FvYzFb5lk7s/view?usp=sharing
