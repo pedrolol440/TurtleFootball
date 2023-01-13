@@ -21,7 +21,8 @@ Realizado este roslaunch podemos usar las funcionalidades básicas del robot, si
 roslaunch astra_launch astra.launch
 ```
 
-Una vez lanzados estos comandos ya tenemos todo listo para lanzar la práctica. Para ello con el script
+Una vez lanzados estos comandos ya tenemos todo listo para lanzar la práctica. Para ello con el script [TurtleFootball.py] 
+
 Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que se prentendía visualizar la cámara:
 
 [VerCamara.py code](https://github.com/pedrolol440/TurtleFootball/blob/b2d81bce231dedcae2abcad0811543c91382c81d/Scripts/verCamara.py)
