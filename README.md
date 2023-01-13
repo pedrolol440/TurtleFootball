@@ -25,7 +25,7 @@ Una vez lanzados estos comandos ya tenemos todo listo para lanzar la práctica. 
 
 Deberíamos poder observar en el robot real un comportamiento similar a este: 
 
-
+#Desarrollo
 
 Lo primero que se intento, es acceder a la camara y abrir una ventana mediante la librería OpenCV en la que se prentendía visualizar la cámara:
 
