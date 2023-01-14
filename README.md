@@ -189,7 +189,7 @@ if __name__ == '__main__':
 ```
 [primer_intento.py](https://github.com/pedrolol440/TurtleFootball/blob/0fa91be15e17fb5d22c391ae04916d51b503f321/Scripts/leo_code.py)
 
-Este código a primera instancia tenía un problema importante del cual se tardo un poco descubrir la solución aunque era algo sencilla esta, puesto que no se reiniciaba la odometría y al ejecutar el código varias veces perdía la orientación. Esto era porque no se reiniciaba la odometría como se puede ver en el script. 
+Este código a primera instancia tenía un problema importante del cual se tardo un poco en descubrir la solución aunque era algo sencilla esta, puesto que no se reiniciaba la odometría y al ejecutar el código varias veces perdía la orientación. Esto era porque no se reiniciaba la odometría como se puede ver en el script. 
 
 Una vez detectado ese problema se desarrollo otro script pero añadiendo el reinicio de la odometría. Además se añadió una máquina de estados a la programación para tratar de mejorar la ejecución de la orientación, consiguiendo mejorar bastante el funcionamiento.
 
