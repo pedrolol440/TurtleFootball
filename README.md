@@ -46,7 +46,7 @@ A partir de este momento se necesitaba que el robot se posicionara de una manera
 [giro_prueba_odom.py](https://github.com/pedrolol440/TurtleFootball/blob/a90a78e25fbfcaf5cb84aaa6f085ff1dbef41576/Scripts/prueba_giro_odom.py)
 
 
-Con la visualización por cámara, con la detección de los colores y extracción de centroides respectiva además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código. Sin embargo la orientación no llegaba a funcionar bien del todo con lo que se probaron diferentes soluciones.
+Con la visualización por cámara, con la detección de los colores y extracción de centroides respectivamente, además de una buena idea de implementación de la orientación se trato de implementar conjuntamente las diferentes ideas en un solo código. Sin embargo la orientación no llegaba a funcionar bien del todo con lo que se probaron diferentes soluciones.
 
 En un primer momento se realizó la siguiente implementación: 
 
